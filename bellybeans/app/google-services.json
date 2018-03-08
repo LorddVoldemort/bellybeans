@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225530178203",
+    "firebase_url": "https://bellybeans-f558a.firebaseio.com",
+    "project_id": "bellybeans-f558a",
+    "storage_bucket": "bellybeans-f558a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225530178203:android:fa395bd37b04b51e",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.bellybeans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225530178203-2d7qjnjjoa1guu9v65j1rco1tpq7db9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.bellybeans",
+            "certificate_hash": "c601a1f0b359f7b417b45472e5b2b3b61c746f1d"
+          }
+        },
+        {
+          "client_id": "225530178203-a3ef0ppijtcki2nnjl6btitv6j02cgbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWF_vGKiFBCUVCWUzfJ9O8z2LbXpyJf2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225530178203-a3ef0ppijtcki2nnjl6btitv6j02cgbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
